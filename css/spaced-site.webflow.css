@@ -1,5 +1,5 @@
 body {
-  background-image: url("../images/SPACE.webp");
+  background-image: url("../images/SPACE.webp") !important;
   background-position: 50% 0px;
   background-size: 100%;
   background-repeat: repeat-y;
