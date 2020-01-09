@@ -2169,7 +2169,8 @@ img {
   }
   .astronaut {
     width: 80%;
-    /* top: 0%; */
+    top: 15rem;
+    
     /* margin-top: -167vw; */
   }
   .get-started-orange {
