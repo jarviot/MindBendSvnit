@@ -256,3 +256,7 @@ h1 {
   transform: translate(5px, -50%);
   opacity: 1;
 }
+.divider {
+  width: 1600px;
+  /* max-width: 1200px; */
+}
