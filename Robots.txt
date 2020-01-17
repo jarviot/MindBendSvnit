@@ -10,4 +10,4 @@ Disallow:
 User-agent: *
 Disallow: 
 Disallow: /cgi-bin/
-Sitemap: http://mindbendsvnit.org/sitemap.xml
+Sitemap: http://mindbendsvnit.org/newsitemao.xml
