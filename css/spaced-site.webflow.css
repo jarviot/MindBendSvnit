@@ -681,8 +681,9 @@ img {
 
 .planet-tab {
   z-index: 20;
+  display:none;
   padding: 65px 60px;
-  background-image: url("../images/5.webp");
+  /* background-image: url("../images/5.webp"); */
   background-position: 0px 50%;
   background-repeat: no-repeat;
   -webkit-transition: background-position 500ms ease,
@@ -765,7 +766,9 @@ img {
   padding-bottom: 0px;
   padding-left: 200px;
 }
-
+.workshop{
+  padding-bottom: 4rem;;
+}
 .massive-heading {
   position: relative;
   z-index: 0;
