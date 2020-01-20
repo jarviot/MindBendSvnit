@@ -19,6 +19,7 @@ h1 {
   width: 30%;
   margin-bottom: 30px;
 }
+
 @media (max-width: 991px) {
   .card {
     float: left;
@@ -68,7 +69,7 @@ h1 {
 }
 .card .data {
   position: absolute;
-  bottom: 0;
+  bottom: -1rem;
   width: 100%;
   transform: translateY(calc(70px + 1em));
   transition: transform 0.3s;
@@ -258,5 +259,41 @@ h1 {
 }
 .divider {
   width: 1600px;
+  float: left;
+  width: 100%;
   /* max-width: 1200px; */
+}
+.divider h2 {
+  color: white;
+}
+.content {
+  background: rgb(37, 36, 36);
+}
+li {
+  font-size: 1.3rem;
+}
+a {
+  font-size: 1.4rem;
+  color: #fff;
+}
+a:hover {
+  font-size: 1.4rem;
+  color: #e6e6de;
+}
+.center-footer-content {
+  border-bottom: 1px solid #1c2e46;
+}
+.card .data .content {
+  padding: 0.6em;
+}
+.logo {
+  color: #fff;
+}
+
+* {
+  cursor: url(./../images/rocket.png), auto;
+}
+
+body {
+  background: url(./../images/SPACE.webp);
 }
