@@ -19,7 +19,9 @@ h1 {
   width: 30%;
   margin-bottom: 30px;
 }
-
+.workshop {
+  width: 100% !important;
+}
 @media (max-width: 991px) {
   .card {
     float: left;

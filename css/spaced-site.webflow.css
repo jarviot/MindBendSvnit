@@ -1,5 +1,3 @@
-
-
 h2 {
   margin-top: 20px;
   margin-bottom: 10px;
@@ -681,7 +679,7 @@ img {
 
 .planet-tab {
   z-index: 20;
-  display:none;
+  display: none;
   padding: 65px 60px;
   /* background-image: url("../images/5.webp"); */
   background-position: 0px 50%;
@@ -762,12 +760,12 @@ img {
 }
 
 .tab-pane {
-  padding-top: 85px;
+  padding-top: 0px;
   padding-bottom: 0px;
   padding-left: 200px;
 }
-.workshop{
-  padding-bottom: 4rem;;
+.workshop {
+  padding-bottom: 4rem;
 }
 .massive-heading {
   position: relative;
@@ -871,7 +869,7 @@ img {
 }
 
 .white-h4 {
-  margin-top: 25px;
+  margin-top: 65px;
   color: #fff;
   font-size: 58px;
   font-weight: 400;
@@ -2173,7 +2171,7 @@ img {
   .astronaut {
     width: 80%;
     top: 15rem;
-    
+
     /* margin-top: -167vw; */
   }
   .get-started-orange {
